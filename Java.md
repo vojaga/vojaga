@@ -17,7 +17,7 @@ Radix Sort (Rádové radenie): Založený na distribúcii prvkov do zásobníkov
 
 1. `Tim Sort` Je hybridný sortovací algoritmus založený na Merge Sort a Insertion Sort. Je to štandardný algoritmus používaný pre sortovanie polí a zoznamov v Jave (java.util.Arrays a java.util.Collections).
 
-  
+
 # final, finally, a finalize
 
 1. `final`
